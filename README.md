@@ -44,13 +44,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <img 
 align="left"
-height="200px"
+height="180px"
 style="padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api?username=lucxsdias&show_icons=true&theme=dark&locale=pt-br"
 />
 
 <img 
 align="left"
-height="200px"
+height="180px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxsdias&theme=dark&locale=pt-br"
 />
