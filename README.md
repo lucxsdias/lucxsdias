@@ -29,7 +29,6 @@ Meu objetivo é entender não apenas como escrever código, mas também como apl
 ```text
 Desenvolvimento de Software
 ├── Python
-├── Java
 ├── Programação Orientada a Objetos
 ├── APIs
 ├── Automação
@@ -37,13 +36,6 @@ Desenvolvimento de Software
 ├── Estruturação de projetos
 └── Boas práticas de desenvolvimento
 ```
-
-
-
-## Objetivo
-
-Utilizar este GitHub para documentar minha evolução como desenvolvedor, construindo projetos que me permitam aprender novas competências e compreender cada vez melhor como aplicações funcionam do início ao fim.
-
 
 
 
