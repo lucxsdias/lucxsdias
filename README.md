@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá, eu sou o Lucas
 
-<!--
-**lucxsdias/lucxsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e estou construindo minha base em desenvolvimento de software através de estudos e projetos práticos.
 
-Here are some ideas to get you started:
+Meu objetivo é entender não apenas como escrever código, mas também como aplicações são estruturadas, organizadas, testadas e mantidas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Sobre mim
+
+- Estudante de Engenharia de Software
+- Desenvolvendo minha base em programação e desenvolvimento de software
+- Aprendendo organização de código e boas práticas de desenvolvimento
+- Construindo projetos progressivamente mais completos
+- Buscando minha primeira oportunidade na área de tecnologia
+
+
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,git,github,linux" />
+</p>
+
+
+
+## Atualmente estudando
+
+```text
+Desenvolvimento de Software
+├── Python
+├── Java
+├── Programação Orientada a Objetos
+├── APIs
+├── Automação
+├── Git & GitHub
+├── Estruturação de projetos
+└── Boas práticas de desenvolvimento
+```
+
+
+
+## Objetivo
+
+Utilizar este GitHub para documentar minha evolução como desenvolvedor, construindo projetos que me permitam aprender novas competências e compreender cada vez melhor como aplicações funcionam do início ao fim.
+
+
+
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/lucxsdias/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas_Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:llucxsdias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-llucxsdias%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
